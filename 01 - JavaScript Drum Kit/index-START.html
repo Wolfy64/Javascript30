@@ -9,7 +9,7 @@
 
 
   <div class="keys">
-    <div data-key="65" class="key">
+    <div data-key="65" class="key" onclick="playSound(this.data-key)">
       <kbd>A</kbd>
       <span class="sound">clap</span>
     </div>
@@ -57,10 +57,7 @@
   <audio data-key="75" src="sounds/tom.wav"></audio>
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
-<script>
-
-</script>
-
+<script type="text/javascript" src="script.js"></script>
 
 </body>
 </html>
