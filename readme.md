@@ -9,7 +9,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ## Table of content
 
 - [x] JavaScript Drum Kit
-- [] JS + CSS Clock
+- [X] JS + CSS Clock
 - [] CSS Variables
 - [] Array Cardio, Day 1
 - [] Flex Panel Gallery
