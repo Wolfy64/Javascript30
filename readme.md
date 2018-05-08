@@ -13,7 +13,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] CSS Variables
 - [X] Array Cardio, Day 1
 - [X] Flex Panel Gallery
-- Type Ahead
+- [X] Type Ahead
 - Array Cardio, Day 2
 - Fun with HTML5 Canvas
 - Dev Tools Domination
