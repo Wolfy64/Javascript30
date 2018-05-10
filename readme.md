@@ -15,8 +15,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] Flex Panel Gallery
 - [X] Type Ahead
 - [X] Array Cardio, Day 2
-- Fun with HTML5 Canvas
-- Dev Tools Domination
+- [X] Fun with HTML5 Canvas
+- [X] Dev Tools Domination
 - Hold Shift and Check Checkboxes
 - Custom Video Player
 - Key Sequence Detection
