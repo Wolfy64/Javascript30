@@ -19,7 +19,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] Dev Tools Domination
 - [X] Hold Shift and Check Checkboxes
 - [X] Custom Video Player
-- Key Sequence Detection
+- [X] Key Sequence Detection
 - Slide in on Scroll
 - JavaScript References vs. Copying
 - LocalStorage
