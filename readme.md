@@ -20,7 +20,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] Hold Shift and Check Checkboxes
 - [X] Custom Video Player
 - [X] Key Sequence Detection
-- Slide in on Scroll
+- [X] Slide in on Scroll
 - JavaScript References vs. Copying
 - LocalStorage
 - Mouse Move Shadow
