@@ -21,7 +21,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] Custom Video Player
 - [X] Key Sequence Detection
 - [X] Slide in on Scroll
-- JavaScript References vs. Copying
+- [X] JavaScript References vs. Copying
 - LocalStorage
 - Mouse Move Shadow
 - Sort Without Articles
