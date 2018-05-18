@@ -22,7 +22,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] Key Sequence Detection
 - [X] Slide in on Scroll
 - [X] JavaScript References vs. Copying
-- LocalStorage
+- [X] LocalStorage
 - Mouse Move Shadow
 - Sort Without Articles
 - Adding Up Times with Reduce
