@@ -9,23 +9,23 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ## Table of content
 
 - [x] JavaScript Drum Kit
-- [X] JS + CSS Clock
-- [X] CSS Variables
-- [X] Array Cardio, Day 1
-- [X] Flex Panel Gallery
-- [X] Type Ahead
-- [X] Array Cardio, Day 2
-- [X] Fun with HTML5 Canvas
-- [X] Dev Tools Domination
-- [X] Hold Shift and Check Checkboxes
-- [X] Custom Video Player
-- [X] Key Sequence Detection
-- [X] Slide in on Scroll
-- [X] JavaScript References vs. Copying
-- [X] LocalStorage
-- Mouse Move Shadow
-- Sort Without Articles
-- Adding Up Times with Reduce
+- [x] JS + CSS Clock
+- [x] CSS Variables
+- [x] Array Cardio, Day 1
+- [x] Flex Panel Gallery
+- [x] Type Ahead
+- [x] Array Cardio, Day 2
+- [x] Fun with HTML5 Canvas
+- [x] Dev Tools Domination
+- [x] Hold Shift and Check Checkboxes
+- [x] Custom Video Player
+- [x] Key Sequence Detection
+- [x] Slide in on Scroll
+- [x] JavaScript References vs. Copying
+- [x] LocalStorage
+- [x] Mouse Move Shadow
+- [x] Sort Without Articles
+- [x] Adding Up Times with Reduce
 - Webcam Fun
 - Speech Detection
 - Geolocation
