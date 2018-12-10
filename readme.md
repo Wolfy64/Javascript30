@@ -26,8 +26,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] Mouse Move Shadow
 - [x] Sort Without Articles
 - [x] Adding Up Times with Reduce
-- Webcam Fun
-- Speech Detection
+- [x] Webcam Fun
+- [x] Speech Detection
 - Geolocation
 - Follow Along Link Highlighter
 - Speech Synthesis
