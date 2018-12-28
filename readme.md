@@ -33,7 +33,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] Speech Synthesis
 - [x] Sticky Nav
 - [x] Event Capture, Propagation, Bubbling, and Once
-- Stripe Follow Along Nav
+- [x] Stripe Follow Along Nav
 - Click and Drag
 - Video Speed Controller
 - Countdown Timer
