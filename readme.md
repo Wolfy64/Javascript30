@@ -28,8 +28,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] Adding Up Times with Reduce
 - [x] Webcam Fun
 - [x] Speech Detection
-- Geolocation
-- Follow Along Link Highlighter
+- [x] Geolocation
+- [x] Follow Along Link Highlighter
 - Speech Synthesis
 - Sticky Nav
 - Event Capture, Propagation, Bubbling, and Once
