@@ -35,6 +35,6 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] Event Capture, Propagation, Bubbling, and Once
 - [x] Stripe Follow Along Nav
 - [x] Click and Drag
-- Video Speed Controller
+- [x] Video Speed Controller
 - Countdown Timer
 - Whack A Mole
