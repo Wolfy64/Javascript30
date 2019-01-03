@@ -37,4 +37,4 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] Click and Drag
 - [x] Video Speed Controller
 - [x] Countdown Timer
-- Whack A Mole
+- [x] Whack A Mole
